@@ -66,6 +66,9 @@ Ferramentas e sistemas aplicados ao ensino de Matemática e Tecnologia, integran
   <a href="mailto:tecsolucoes0101@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://wa.me/5577998620241?text=Olá!%20Vim%20pelo%20seu%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
