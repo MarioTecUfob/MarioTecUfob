@@ -29,8 +29,12 @@ Sou desenvolvedor web e cientista de dados com atuação em **sistemas de gestã
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioTecUfob&theme=tokyo-night&hide_title=true" />
 
+---
 
 ## 📌 Projetos em Destaque
+
+🔒 **Laranjeira Intranet** *(Projeto Privado)*  
+Sistema de gestão interna desenvolvido em **Django** e **Docker** para organização de documentos, módulos administrativos e acompanhamento de atividades.
 
 🔒 **Sistema de Gestão para Laboratório de Fitopatologia** *(Projeto Privado)*  
 Sistema web desenvolvido para apoiar a gestão de rotinas laboratoriais em fitopatologia, incluindo organização de dados, acompanhamento de atividades e suporte à tomada de decisão baseada em dados.  
@@ -39,9 +43,6 @@ Sistema web desenvolvido para apoiar a gestão de rotinas laboratoriais em fitop
 🔒 **Sistema para Inspeção da Qualidade da Banana** *(Projeto Privado)*  
 Sistema desenvolvido para registro, análise e acompanhamento de critérios de qualidade da banana, auxiliando processos de inspeção, padronização e tomada de decisão no contexto do agronegócio.  
 **Tecnologias:** Laravel, MariaDB, Docker.
-
-🔒 **Laranjeira Intranet** *(Projeto Privado)*  
-Sistema de gestão interna desenvolvido em Django e Docker para organização de documentos, módulos administrativos e acompanhamento de atividades.
 
 🌐 **Sites Institucionais para Associações**  
 Desenvolvimento de sites institucionais para associações e organizações comunitárias, com foco em **divulgação**, **organização da informação**, **transparência** e **presença digital**.  
