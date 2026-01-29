@@ -63,7 +63,7 @@ Ferramentas e sistemas aplicados ao ensino de Matemática e Tecnologia, integran
   <a href="https://www.linkedin.com/in/mariowebtec" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:tecsolucoes0101@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
