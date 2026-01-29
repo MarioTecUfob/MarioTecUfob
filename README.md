@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Mário Novaes!
+## 👋 Olá, eu sou o Mário Gonçalves!
 
 **Desenvolvedor Web & Cientista de Dados | Python • Django • PHP • Laravel • Docker • Power BI |  
 Sistemas de Gestão, Intranets e Dashboards para Tomada de Decisão**
