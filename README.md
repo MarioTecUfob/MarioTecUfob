@@ -27,7 +27,10 @@ Sou desenvolvedor web e cientista de dados com atuação em **sistemas de gestã
 
 ## 📊 Atividade no GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioTecUfob&theme=tokyo-night&hide_title=true" />
+[![Atividade no GitHub](https://ghchart.rshah.org/409ba5/MarioTecUfob)](https://github.com/MarioTecUfob)
+
+---
+
 
 ---
 
